@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: github.magnusp
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, data, data-jpa, github-workflow-ci, github-workflow-graal-docker-registry, h2, http-client-test, java, java-application, jdbc-hikari, jooq, junit, junit-params, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, mockito, netty-server, readme, serialization-jackson, shade, slf4j-simple, test-resources, testcontainers, views-fieldset, views-thymeleaf, yaml, yaml-build]
